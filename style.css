@@ -1,0 +1,14 @@
+.book {
+  background-color: transparent;
+  border: 2px outset red;
+  color: black;
+}
+
+.book:hover {
+  background-color: rgba(137, 43, 226, 0.276);
+  color: black;
+}
+
+body {
+  background-color: beige;
+}
