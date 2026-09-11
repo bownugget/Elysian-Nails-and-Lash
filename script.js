@@ -12,4 +12,3 @@ button.addEventListener("mouseup", () => {
     button.style.transform = "scale(1)";
   }, 100);
 });
-
